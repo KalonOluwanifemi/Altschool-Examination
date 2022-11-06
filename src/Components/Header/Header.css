@@ -1,0 +1,12 @@
+.header-container{
+    text-align: center;
+    color:white;
+    max-width: 250px;
+    height: 50px;
+    background-color: rgb(27, 26, 26);
+    padding: 10px;
+    font-size: larger;
+    margin: 0 auto;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+}

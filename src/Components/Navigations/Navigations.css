@@ -1,0 +1,18 @@
+.navigations{
+    margin: 10px auto;
+    max-width: fit-content;
+}
+#link_styles{
+    border: 1px solid black;
+    text-decoration: none;
+    margin: 0 5px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 1.4rem;
+    font-size: 15px;
+    padding: 5px 10px;
+    color: white;
+    width: 200px;
+}
+#link_styles:active{
+    background-color: rgb(12, 83, 111);
+}
